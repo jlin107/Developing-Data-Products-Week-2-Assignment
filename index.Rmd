@@ -1,5 +1,5 @@
 ---
-title: "Developing Data Products Course Project"
+title: "Developing Data Products Week 2 Assignment"
 author: "John Lin"
 date: "6/18/2020"
 output: html_document
